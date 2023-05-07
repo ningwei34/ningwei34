@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ningwei34
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in web development, mobile app development, and tennis🎾
+- 🌱 I’m currently learning Java, Swift, and AWS.
 - 📫 Reach me at chiehningwei@gmail.com
 
 <!---
